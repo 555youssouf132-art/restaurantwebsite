@@ -1,0 +1,131 @@
+{
+  "books": [
+    {
+      "id": "0f8d",
+      "nom": "Fatoma",
+      "email": "fatoma@gmail.com",
+      "phone": "93973071",
+      "date": "2026-01-21",
+      "time": "11:11",
+      "people": "7",
+      "message": "VIP"
+    },
+    {
+      "id": "6eb2",
+      "nom": "Fatoma",
+      "email": "khalifacoders@gmail.com",
+      "phone": "93973071",
+      "date": "2005-12-11",
+      "time": "12:12",
+      "people": "11",
+      "message": "jhjnk"
+    },
+    {
+      "id": "d188",
+      "nom": "Fatoma",
+      "email": "khalifacoders@gmail.com",
+      "phone": "93973071",
+      "date": "2005-12-11",
+      "time": "12:12",
+      "people": "11",
+      "message": "jhjnk"
+    },
+    {
+      "id": "c64c",
+      "nom": "Fatoma",
+      "email": "khalifacoders@gmail.com",
+      "phone": "93973071",
+      "date": "2005-12-11",
+      "time": "12:12",
+      "people": "11",
+      "message": "jhjnk"
+    },
+    {
+      "id": "a983",
+      "nom": "Fatoma",
+      "email": "khalifacoders@gmail.com",
+      "phone": "93973071",
+      "date": "2005-12-11",
+      "time": "12:12",
+      "people": "11",
+      "message": "jhjnk"
+    },
+    {
+      "id": "9a17",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "phone": "+22393973071",
+      "date": "2222-01-11",
+      "time": "11:01",
+      "people": "11",
+      "message": "eddd"
+    },
+    {
+      "id": "ca20",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "phone": "+22393973071",
+      "date": "2222-01-11",
+      "time": "11:01",
+      "people": "11",
+      "message": "eddd"
+    },
+    {
+      "id": "5b99",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "phone": "+22393973071",
+      "date": "2222-01-11",
+      "time": "11:01",
+      "people": "11",
+      "message": "eddd"
+    },
+    {
+      "id": "2263",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "phone": "+22393973071",
+      "date": "2222-01-11",
+      "time": "11:01",
+      "people": "11",
+      "message": "eddd"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "bcb9",
+      "nom": "",
+      "email": "",
+      "subject": "subject",
+      "message": ""
+    },
+    {
+      "id": "fe68",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "subject": "uuuuj",
+      "message": "eddd"
+    },
+    {
+      "id": "0c54",
+      "nom": "Nourriture",
+      "email": "khalifacoders@gmail.com",
+      "subject": "uuuuj",
+      "message": "eddd"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "6a33",
+      "email": ""
+    },
+    {
+      "id": "617b",
+      "email": ""
+    },
+    {
+      "id": "0bf7",
+      "email": ""
+    }
+  ]
+}
